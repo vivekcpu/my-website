@@ -4,11 +4,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+<!--     <title>document</title> -->
 </head>
 <body>
     
-    <hr>
+ <hr>
 <header><pre>         <h1>INDIAN INSTITUTE OF INFORMATION TECHNOLOGY, BHAGALPUR</h1>            </pre></header>
 </hr>
 <br>
@@ -50,9 +50,7 @@
 <br>
 <hr>
 <div>
-    
-
-<a href="https://www.instagram.com/enyugma_iiitbh/"target="_main"><img src="https://media.licdn.com/dms/image/C4D0BAQEQcq8QnHCMJA/company-logo_200_200/0/1630508219439?e=2147483647&v=beta&t=iW9qOsBvG1R3j21m_6CSQF7VqyBO2lli7-CGMNtgXL8"></a>
+<a href="https://www.instagram.com/enyugma_iiitbh/"target="_main"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgg-N8HpWNzEyichPkRzAqaFXxcZicHpaPKg&s"></a>
 <BR>
 <h1>CULTURAL BOARD</h1>
 </div>
